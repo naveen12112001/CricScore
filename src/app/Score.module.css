@@ -1,0 +1,10 @@
+.scoreNumber{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: black;
+    color: #FF3366;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
